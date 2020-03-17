@@ -35,4 +35,4 @@ var funkyFunction = function() {
 // NOTE: you only need to modify the code below this line.
 //window.alert(funkyFunction())
 var funk=funkyFunction()
-var theFunk = funk
+var theFunk = funk()
